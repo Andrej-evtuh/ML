@@ -1,5 +1,6 @@
 # Open Datasets
 
+* [Openml datasets](https://www.openml.org/search?type=data)
 * [Kaggle’s open data platform](https://www.kaggle.com/datasets)
 * [Google’s Public Data Sets](https://cloud.google.com/bigquery/public-data/)
 * [/r/datasets](https://www.reddit.com/r/datasets)
